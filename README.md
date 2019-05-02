@@ -1,2 +1,2 @@
 # C_programming
-Repository for little projects
+Repository for little C language projects
