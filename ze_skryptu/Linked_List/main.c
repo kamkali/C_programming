@@ -2,7 +2,7 @@
 #include <string.h>
 
 struct bip_transistor{
-    struct bip_transistor *nextDevice;
+    struct bip_transistor *nextDevice;  /* initial for Linked List*/
     char device[20];
     double beta;
     float maxpower;
