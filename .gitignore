@@ -1,1 +1,3 @@
-/cmake-build-debug
+*.log
+*.xml
+**/cmake-build-debug
