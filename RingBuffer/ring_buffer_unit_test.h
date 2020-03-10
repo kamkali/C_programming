@@ -1,3 +1,8 @@
+/* @author Jan Macheta
+* AGH University of Technology and Science
+*/
+
+
 #ifndef _RING_BUFFER_UNIT_TEST_H_
 #define _RING_BUFFER_UNIT_TEST_H_
 
