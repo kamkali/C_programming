@@ -1,3 +1,7 @@
+/* @author Jan Macheta
+* AGH University of Technology and Science
+*/
+
 #include "ring_buffer.h"
 #include "ring_buffer_unit_test.h"
 #include <stdint.h>
